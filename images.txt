@@ -1,4 +1,7 @@
-mysql:5.7
-tomcat
-ubuntu:22.04
-centos:7.9.2009
+eclipse-temurin:8-jdk
+eclipse-temurin:11-jdk
+eclipse-temurin:17-jdk
+eclipse-temurin:21-jdk
+openjdk:8
+openjdk:11
+openjdk:21
