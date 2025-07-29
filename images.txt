@@ -1,1 +1,4 @@
-openjdk:17-jdk
+mysql:5.7
+tomcat
+ubuntu:22.04
+centos:7.9.2009
