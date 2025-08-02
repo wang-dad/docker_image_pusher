@@ -1,1 +1,2 @@
-openjdk:8-jre-alpine
+redis:6.2.12
+nginx:1.27.4
